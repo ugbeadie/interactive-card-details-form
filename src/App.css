@@ -12,7 +12,7 @@
     --white: hsl(0, 0%, 100%);
     --violet: hsl(270, 3%, 87%);
     --violet1: hsl(279, 6%, 55%);
-    --violet2: hsl(278, 68%, 11%)
+    --violet2: hsl(278, 68%, 11%);
 } 
 
 body {
