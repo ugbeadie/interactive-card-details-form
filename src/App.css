@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap');
 
 * {
     padding: 0;
@@ -13,7 +13,7 @@
     --violet: hsl(270, 3%, 87%);
     --violet1: hsl(279, 6%, 55%);
     --violet2: hsl(278, 68%, 11%);
-} 
+}  */
 
 body {
     font-family: 'Space Grotesk', sans-serif;
